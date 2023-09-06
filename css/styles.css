@@ -1,0 +1,22 @@
+.nav    {
+    background-color: #6C757D;
+    color: #fae2e2;
+}
+
+.card-header{
+    background-color: #F25252;
+
+}
+
+.card-body-c{
+    background-color: #F25252;
+}
+.botonc{
+    display: block;
+    padding: 0.5rem 1rem;
+    width: 200px;
+    margin: 0 auto;
+}
+button:hover{
+    background-color: yellow;
+}
